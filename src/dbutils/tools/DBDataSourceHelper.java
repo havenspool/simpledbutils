@@ -25,7 +25,7 @@ public class DBDataSourceHelper {
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull";
     private static final String USER_NAME = "root";
-    private static final String USER_PASS = "test";
+    private static final String USER_PASS = "havens";
 
     private static final String DBFILE = "jdbc.properties";
 
